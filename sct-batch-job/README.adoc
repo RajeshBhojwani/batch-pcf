@@ -1,0 +1,25 @@
+= Spring Cloud Task with Spring Batch
+
+This is a Spring Cloud Task application that executes two simple Spring Batch Jobs.
+
+
+== Build:
+
+[source,shell,indent=2]
+----
+$ mvn clean package
+----
+
+== Run:
+
+[source,shell,indent=2]
+----
+$ java -jar target/sct-batch-job-2.1.0.BUILD-SNAPSHOT.jar
+----
+
+== Push to PCF:
+
+[source,shell,indent=2]
+----
+   cf push    
+----
