@@ -23,3 +23,7 @@ $ java -jar target/sct-batch-job-2.1.0.BUILD-SNAPSHOT.jar
 ----
    cf push    
 ----
+
+Refer this wiki for full details how to schedule it on PCF:
+
+https://www.rajeshbhojwani.co.in/2019/03/running-batch-application-in-pcf.html
