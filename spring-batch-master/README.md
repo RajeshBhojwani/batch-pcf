@@ -15,6 +15,6 @@ Sample Spring Batch to demonstrate running Spring Cloud Task on Cloud Foundry
    cf push    
    ```
 
- Refer this wiki for full details how to use Credhub to store and retrieve the credentials:
+ Refer this wiki for full details how to schedule it on PCF:
 
- https://wiki.ae.sda.corp.telstra.com/display/SEG/PCF+Credhub+Integration
+https://www.rajeshbhojwani.co.in/2019/03/running-batch-application-in-pcf.html
